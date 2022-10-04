@@ -1,7 +1,7 @@
 [
     {
         "name": "Wrapped TBNB on 5DAX",
-        "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+        "address": "0x79Ac9b5B5A4975E77a9EdB398eAEC9207bbD5a45",
         "symbol": "WBNB",
         "decimals": 18,
         "chainId": 2006,
