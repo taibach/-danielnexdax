@@ -1,7 +1,7 @@
 [
     {
         "name": "Wrapped goerli on 5DAX",
-        "address": "0xEf56bCC22De3CA376b78e63e6756de5E93BCF64C",
+        "address": "0xf5D43a9Fa759cbB6729dE40EE0de408a01dFAf15",
         "symbol": "WETH",
         "decimals": 18,
         "chainId": 5,
