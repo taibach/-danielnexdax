@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Wrapped goerli on 5DAX",
+        "address": "0xEf56bCC22De3CA376b78e63e6756de5E93BCF64C",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://raw.githubusercontent.com/taibach/-danielnexdax/main/1540373790678.png"
+      }
+]
