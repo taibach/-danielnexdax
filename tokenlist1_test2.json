@@ -1,0 +1,24 @@
+{
+  "name": "blast Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+  "keywords": [
+    "weth"
+  ],
+  "tokens": [
+    {
+        "name": "uPPG",
+        "address": "0x8f134baa1105087ab1ed23a9a6412f8e9f4d60bb",
+        "symbol": "uPPG",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
+    }
+  ]
+}
